@@ -1,4 +1,7 @@
-# Ignite - Lembrete de tarefas
+<h1 align="center">
+    Ignite - Lembrete de tarefas
+</h1>
+
 ## 📝Sobre
 #### Aplicação de lembrete de tarefas, na qual foi possível treinar treinar um pouco mais sobre manipulação do estado no React. As funcionalidades do aplicativo são:
 
@@ -13,4 +16,4 @@
 <img src="https://ik.imagekit.io/qm0c4ik0qr6/ezgif.com-gif-maker_1Cmo0CToh.gif" alt="demonstration" width="200" height="380" />
 </p>
 
-##### ...
+### ...
